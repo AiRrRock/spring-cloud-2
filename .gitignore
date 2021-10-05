@@ -1,0 +1,7 @@
+# Project exclude paths
+/common/target/
+/eureka-server/target/
+/front/target/
+/gateway/.gradle/
+/gateway/target/
+/product-service/target/
